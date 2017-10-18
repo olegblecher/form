@@ -1,0 +1,49 @@
+body {
+        background: #e2debd;
+        color: #b3aca7;
+}
+
+header {
+        position: relative;
+        margin: 100px 0 25px 0;
+        font-size: 2.3em;
+        text-align: center;
+        letter-spacing: 7px;
+}
+
+
+.general {
+        position: relative;
+        width: 500px;
+        margin: 50px auto 100px auto;
+}
+
+input {
+        position: relative;
+        height: 50px;
+        width: 470px;
+        padding: 0px 15px 0px 15px;
+        transition: 0.4s;
+        background: transparent;
+        color: 726659;
+        border: solid 1px #b3aca7;
+}
+
+
+input:hover {
+        background: #b3aca7;
+        color: #e2debd;
+}
+
+#submit {
+        width: 502px;
+        transition: 0.3s;
+        letter-spacing: 3px;
+}
+
+#submit:hover {
+        border-color: black;
+        border-width: 2px;
+        background:  #999900;
+        color: #333300;
+}
